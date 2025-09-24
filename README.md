@@ -4,5 +4,5 @@ This tool is made for legal purposes and any misuse of this tool is the responsi
 
 Tool Capability: This tool gives you information about that phone number using the phone number and country code, for example +48, +98, etc.
 
-# ScreenShot Script
+# ScreenShot of tools
 <img src="screenshots/screen.png">
